@@ -1,0 +1,18 @@
+p{
+	text-align: center;
+	border: dashed;
+	border-color: black;
+	border-radius: 1px;
+}
+div{
+	height: 80px;
+	width: 160px;
+	border-color: #6495ed;
+	background-color:#bcd2ee;
+	border-style: solid;
+	border-width: 30px;
+	border-radius: 5px;
+	margin: auto;
+	text-align: center;
+	padding: 20px;
+}
